@@ -1,0 +1,48 @@
+.imagetable {
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	width: auto;
+}
+.imagetable td {
+	width: 10px;
+	height:10px;
+	margin: 0px;
+	padding: 0px;
+}
+.colour1 {
+	background-color: #FF0;
+}
+.colour2 {
+	background-color: #0F0;
+}
+.colour3 {
+	background-color: #000;
+}
+.colour4 {
+	background-color: #F00;
+}
+.colour5 {
+	background-color: #06C;
+}
+.colour6 {
+	background-color: #FFF;
+}
+
+#palette td{
+	width: 35px;
+	height: 20px;
+}
+
+#brush{
+	text-align: center;
+}
+
+.selected{
+	border: medium solid #939;
+}
